@@ -1,5 +1,5 @@
 import './App.css'
-import naruto from './assets/naruto.jpg'
+import naruto from './assets/AOT.jpg'
 
 function App() {
   return (
