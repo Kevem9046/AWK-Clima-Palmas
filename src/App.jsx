@@ -4,7 +4,7 @@ import naruto from './assets/AOT.jpg'
 function App() {
   return (
     <div>
-      <h1>Naruto</h1>
+      <h1>AOT</h1>
 
       <img
         src={naruto}
